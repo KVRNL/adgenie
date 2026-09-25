@@ -71,6 +71,17 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.1.11** — 2026-09-06
+  - Codex is here: choose Codex · ChatGPT as your AI engine and design with your ChatGPT account — no API key needed.
+  - New Image output in AI Studio: ChatGPT generates a real picture for your post straight onto the canvas, ready to export.
+  - Pick your AI engine, model and output right in the AI Studio header. Newest Claude models added: Sonnet 5, Opus 5 and Fable 5.1.
+  - Export fixes: AI-mode size presets now scale instead of cropping, PDF from AI mode is a real PDF, and blur effects and the snap grid export correctly.
+  - Stop now really stops Claude Code, long AI sessions no longer stall, and keyboard shortcuts stay out of text boxes and AI mode. Plus smaller fixes throughout.
+
+**v1.1.10** — 2026-08-18
+  - Downloads and automatic updates now come straight from KVRNL's own servers instead of a third-party host. Updates are quicker and more reliable, and nothing inside the app itself has changed.
+  - If you installed this app before today, please download it once more from kvrnl.io. Older copies still look for updates at the old location and can't carry themselves across the move — this one time has to be done by hand.
+
 **v1.1.9** — 2026-07-05
   - AI Studio can now build with the full webpage toolbox — callouts, notices, buttons, badges, cards, lists, tables, inline SVG icons, and embedded photos — all composed into your design.
   - Real, scannable QR codes: type a link in the new QR field and the AI drops a working QR into the design.
@@ -85,17 +96,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - The design always fits the canvas frame — nothing spills off or gets cut off.
   - The chat stays clean — no raw HTML/code is ever shown; the markup only lives on the canvas.
   - Fixed AI designs getting cut off from overly short responses, and gave the Claude Code path proper conversation memory so it remembers your answers and iterates.
-
-**v1.1.5** — 2026-07-05
-  - Select multiple layers at once — shift/ctrl-click, or drag a box on the canvas — and move, align, duplicate, or delete them together.
-  - Align layers: snap a layer to the canvas edges/center, or align several to each other (left, center, right, top, middle, bottom).
-  - Duplicate layers with one click or Ctrl+D.
-  - Name your layers — double-click a layer in the Layers panel, or use the new Name field.
-  - Blur effect per layer, with a slider in the Design panel.
-  - Snap to grid — toggle it on for a grid overlay and clean, aligned placement while dragging.
-
-**v1.1.4** — 2026-06-30
-  - Latest build — improvements and fixes.
 
 Full history → **[kvrnl.io/changelog/adgenie](https://kvrnl.io/changelog/adgenie/)**
 
