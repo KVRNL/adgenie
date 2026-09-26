@@ -71,6 +71,13 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.1.12** — 2026-09-25
+  - New activation screen: clear steps for creating a free KVRNL account and getting your key, with buttons that open the right page for each step. Handy if you downloaded AdGenie from somewhere other than kvrnl.io.
+  - Activating is easier: a Paste button, pasted keys are cleaned up automatically, and every problem comes with plain-English help and the right next step.
+  - Stronger license protection: AdGenie stays fully locked until your key is confirmed, and your license details are now stored securely on your PC.
+  - More reliable license checks: a hiccup on our license server no longer says your key is invalid, and startup shows "Checking your license" instead of seeming to do nothing. Offline, AdGenie keeps working for up to 14 days, then asks you to go online once.
+  - Fixed: dragging a file onto the AdGenie window could replace your design and lose your work.
+
 **v1.1.11** — 2026-09-06
   - Codex is here: choose Codex · ChatGPT as your AI engine and design with your ChatGPT account — no API key needed.
   - New Image output in AI Studio: ChatGPT generates a real picture for your post straight onto the canvas, ready to export.
@@ -90,12 +97,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 **v1.1.7** — 2026-07-05
   - AI Studio now builds a complete, real HTML5 document so the preview renders exactly like a hand-built web page.
   - Moved the Capture button up to the top bar (out of the message area); it renders whatever's in the frame out to an image.
-
-**v1.1.6** — 2026-07-05
-  - AI Studio is now a real design collaborator: it asks a couple of quick questions (vibe, colors, key details) to understand what you want, then builds a live HTML preview and refines it with you turn by turn.
-  - The design always fits the canvas frame — nothing spills off or gets cut off.
-  - The chat stays clean — no raw HTML/code is ever shown; the markup only lives on the canvas.
-  - Fixed AI designs getting cut off from overly short responses, and gave the Claude Code path proper conversation memory so it remembers your answers and iterates.
 
 Full history → **[kvrnl.io/changelog/adgenie](https://kvrnl.io/changelog/adgenie/)**
 
