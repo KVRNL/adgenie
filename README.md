@@ -71,6 +71,10 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
 
 ## What's new
 
+**v1.1.13** — 2026-09-26
+  - New in Settings: "Share usage info with KVRNL". When it's on, AdGenie sends us short notes about which features you use, any errors, and basic PC details like your Windows version and screen size, so we can see what to improve and fix problems faster. Your designs, photos, prompts and files never leave your PC, and you can turn it off anytime.
+  - License checks now include your AdGenie version, so we can see which versions are in use and keep license keys secure.
+
 **v1.1.12** — 2026-09-25
   - New activation screen: clear steps for creating a free KVRNL account and getting your key, with buttons that open the right page for each step. Handy if you downloaded AdGenie from somewhere other than kvrnl.io.
   - Activating is easier: a Paste button, pasted keys are cleaned up automatically, and every problem comes with plain-English help and the right next step.
@@ -93,10 +97,6 @@ none of your files. Full policy: **[kvrnl.io/privacy](https://kvrnl.io/privacy/)
   - AI Studio can now build with the full webpage toolbox — callouts, notices, buttons, badges, cards, lists, tables, inline SVG icons, and embedded photos — all composed into your design.
   - Real, scannable QR codes: type a link in the new QR field and the AI drops a working QR into the design.
   - Everything the AI builds always fits inside the fixed canvas frame — never larger, never cut off.
-
-**v1.1.7** — 2026-07-05
-  - AI Studio now builds a complete, real HTML5 document so the preview renders exactly like a hand-built web page.
-  - Moved the Capture button up to the top bar (out of the message area); it renders whatever's in the frame out to an image.
 
 Full history → **[kvrnl.io/changelog/adgenie](https://kvrnl.io/changelog/adgenie/)**
 
